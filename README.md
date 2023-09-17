@@ -2,7 +2,7 @@
 By Victor Mwatu
 
 <div>
-<center><img src="image0_0 (1).jpg" height="300"/></center>
+<center><img src="image0_0 (1).jpg"/></center>
 </div>
 
 ### Summary
