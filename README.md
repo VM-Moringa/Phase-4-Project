@@ -1,7 +1,9 @@
 # Recommendation System
 By Victor Mwatu
 
-![Movie pred](image0_0 (1).jpg)
+<div>
+<center><img src="imageO_O (1).jpg" height="300"/></center>
+</div>
 
 ### Summary
 
